@@ -14,7 +14,7 @@
 form{
     width: 90%;
     max-width: 600px;
-    border: 1px solid#c2c2c2;
+    border: 1px solid #c2c2c2;
     padding: 3%;
 }
 .col{
@@ -24,7 +24,7 @@ input, textarea{
     width: 100%;
     padding:10px;
     outline:0;
-    border: 1px solid #eee;
+    border: 1px solid #c2c2c2;
     background-color: transparent;
     font-size: 13px;
 
@@ -44,7 +44,7 @@ button{
 }
 
 .row .input-box{
-    flex-basis: 48%;
+    flex-basis: 20%;
 }
 .label{
     font-size: 10px;
