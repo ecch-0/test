@@ -44,8 +44,8 @@ button{
 }
 
 .row .input-box{
-    flex-basis: 20%;
+    flex-basis: 48%;
 }
 .label{
-    font-size: 10px;
+    font-size: 5px;
 }
